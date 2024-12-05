@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_logo">Логотип приложения</string>
+
+    <string-array name="roles">
+        <item>Администратор</item>
+        <item>Пользователь</item>
+    </string-array>
+</resources>
